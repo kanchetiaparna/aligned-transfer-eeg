@@ -1,0 +1,180 @@
+--subject 1 --stage pre --pseed 0 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 2 --stage pre --pseed 0 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 3 --stage pre --pseed 0 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 4 --stage pre --pseed 0 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 5 --stage pre --pseed 0 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 6 --stage pre --pseed 0 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 7 --stage pre --pseed 0 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 8 --stage pre --pseed 0 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 9 --stage pre --pseed 0 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 1 --stage pre --pseed 1 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 2 --stage pre --pseed 1 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 3 --stage pre --pseed 1 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 4 --stage pre --pseed 1 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 5 --stage pre --pseed 1 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 6 --stage pre --pseed 1 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 7 --stage pre --pseed 1 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 8 --stage pre --pseed 1 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 9 --stage pre --pseed 1 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 1 --stage pre --pseed 2 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 2 --stage pre --pseed 2 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 3 --stage pre --pseed 2 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 4 --stage pre --pseed 2 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 5 --stage pre --pseed 2 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 6 --stage pre --pseed 2 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 7 --stage pre --pseed 2 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 8 --stage pre --pseed 2 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 9 --stage pre --pseed 2 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 1 --stage pre --pseed 3 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 2 --stage pre --pseed 3 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 3 --stage pre --pseed 3 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 4 --stage pre --pseed 3 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 5 --stage pre --pseed 3 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 6 --stage pre --pseed 3 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 7 --stage pre --pseed 3 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 8 --stage pre --pseed 3 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 9 --stage pre --pseed 3 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 1 --stage pre --pseed 4 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 2 --stage pre --pseed 4 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 3 --stage pre --pseed 4 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 4 --stage pre --pseed 4 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 5 --stage pre --pseed 4 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 6 --stage pre --pseed 4 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 7 --stage pre --pseed 4 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 8 --stage pre --pseed 4 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 9 --stage pre --pseed 4 --ctrl 0 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 1 --stage pre --pseed 0 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 2 --stage pre --pseed 0 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 3 --stage pre --pseed 0 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 4 --stage pre --pseed 0 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 5 --stage pre --pseed 0 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 6 --stage pre --pseed 0 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 7 --stage pre --pseed 0 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 8 --stage pre --pseed 0 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 9 --stage pre --pseed 0 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 1 --stage pre --pseed 1 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 2 --stage pre --pseed 1 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 3 --stage pre --pseed 1 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 4 --stage pre --pseed 1 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 5 --stage pre --pseed 1 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 6 --stage pre --pseed 1 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 7 --stage pre --pseed 1 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 8 --stage pre --pseed 1 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 9 --stage pre --pseed 1 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 1 --stage pre --pseed 2 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 2 --stage pre --pseed 2 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 3 --stage pre --pseed 2 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 4 --stage pre --pseed 2 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 5 --stage pre --pseed 2 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 6 --stage pre --pseed 2 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 7 --stage pre --pseed 2 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 8 --stage pre --pseed 2 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 9 --stage pre --pseed 2 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 1 --stage pre --pseed 3 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 2 --stage pre --pseed 3 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 3 --stage pre --pseed 3 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 4 --stage pre --pseed 3 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 5 --stage pre --pseed 3 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 6 --stage pre --pseed 3 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 7 --stage pre --pseed 3 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 8 --stage pre --pseed 3 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 9 --stage pre --pseed 3 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 1 --stage pre --pseed 4 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 2 --stage pre --pseed 4 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 3 --stage pre --pseed 4 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 4 --stage pre --pseed 4 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 5 --stage pre --pseed 4 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 6 --stage pre --pseed 4 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 7 --stage pre --pseed 4 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 8 --stage pre --pseed 4 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 9 --stage pre --pseed 4 --ctrl 1 --epochs 30 --lr 3e-4 --warmup 3 --tag hpre
+--subject 1 --stage ft --seed 0 --pseed 0 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 2 --stage ft --seed 0 --pseed 0 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 3 --stage ft --seed 0 --pseed 0 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 4 --stage ft --seed 0 --pseed 0 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 5 --stage ft --seed 0 --pseed 0 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 6 --stage ft --seed 0 --pseed 0 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 7 --stage ft --seed 0 --pseed 0 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 8 --stage ft --seed 0 --pseed 0 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 9 --stage ft --seed 0 --pseed 0 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 1 --stage ft --seed 1 --pseed 1 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 2 --stage ft --seed 1 --pseed 1 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 3 --stage ft --seed 1 --pseed 1 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 4 --stage ft --seed 1 --pseed 1 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 5 --stage ft --seed 1 --pseed 1 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 6 --stage ft --seed 1 --pseed 1 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 7 --stage ft --seed 1 --pseed 1 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 8 --stage ft --seed 1 --pseed 1 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 9 --stage ft --seed 1 --pseed 1 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 1 --stage ft --seed 2 --pseed 2 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 2 --stage ft --seed 2 --pseed 2 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 3 --stage ft --seed 2 --pseed 2 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 4 --stage ft --seed 2 --pseed 2 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 5 --stage ft --seed 2 --pseed 2 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 6 --stage ft --seed 2 --pseed 2 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 7 --stage ft --seed 2 --pseed 2 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 8 --stage ft --seed 2 --pseed 2 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 9 --stage ft --seed 2 --pseed 2 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 1 --stage ft --seed 3 --pseed 3 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 2 --stage ft --seed 3 --pseed 3 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 3 --stage ft --seed 3 --pseed 3 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 4 --stage ft --seed 3 --pseed 3 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 5 --stage ft --seed 3 --pseed 3 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 6 --stage ft --seed 3 --pseed 3 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 7 --stage ft --seed 3 --pseed 3 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 8 --stage ft --seed 3 --pseed 3 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 9 --stage ft --seed 3 --pseed 3 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 1 --stage ft --seed 4 --pseed 4 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 2 --stage ft --seed 4 --pseed 4 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 3 --stage ft --seed 4 --pseed 4 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 4 --stage ft --seed 4 --pseed 4 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 5 --stage ft --seed 4 --pseed 4 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 6 --stage ft --seed 4 --pseed 4 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 7 --stage ft --seed 4 --pseed 4 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 8 --stage ft --seed 4 --pseed 4 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 9 --stage ft --seed 4 --pseed 4 --ctrl 0 --epochs 300 --lr 3e-4 --warmup 10 --tag HY
+--subject 1 --stage ft --seed 0 --pseed 0 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 2 --stage ft --seed 0 --pseed 0 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 3 --stage ft --seed 0 --pseed 0 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 4 --stage ft --seed 0 --pseed 0 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 5 --stage ft --seed 0 --pseed 0 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 6 --stage ft --seed 0 --pseed 0 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 7 --stage ft --seed 0 --pseed 0 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 8 --stage ft --seed 0 --pseed 0 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 9 --stage ft --seed 0 --pseed 0 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 1 --stage ft --seed 1 --pseed 1 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 2 --stage ft --seed 1 --pseed 1 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 3 --stage ft --seed 1 --pseed 1 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 4 --stage ft --seed 1 --pseed 1 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 5 --stage ft --seed 1 --pseed 1 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 6 --stage ft --seed 1 --pseed 1 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 7 --stage ft --seed 1 --pseed 1 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 8 --stage ft --seed 1 --pseed 1 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 9 --stage ft --seed 1 --pseed 1 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 1 --stage ft --seed 2 --pseed 2 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 2 --stage ft --seed 2 --pseed 2 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 3 --stage ft --seed 2 --pseed 2 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 4 --stage ft --seed 2 --pseed 2 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 5 --stage ft --seed 2 --pseed 2 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 6 --stage ft --seed 2 --pseed 2 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 7 --stage ft --seed 2 --pseed 2 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 8 --stage ft --seed 2 --pseed 2 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 9 --stage ft --seed 2 --pseed 2 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 1 --stage ft --seed 3 --pseed 3 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 2 --stage ft --seed 3 --pseed 3 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 3 --stage ft --seed 3 --pseed 3 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 4 --stage ft --seed 3 --pseed 3 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 5 --stage ft --seed 3 --pseed 3 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 6 --stage ft --seed 3 --pseed 3 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 7 --stage ft --seed 3 --pseed 3 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 8 --stage ft --seed 3 --pseed 3 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 9 --stage ft --seed 3 --pseed 3 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 1 --stage ft --seed 4 --pseed 4 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 2 --stage ft --seed 4 --pseed 4 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 3 --stage ft --seed 4 --pseed 4 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 4 --stage ft --seed 4 --pseed 4 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 5 --stage ft --seed 4 --pseed 4 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 6 --stage ft --seed 4 --pseed 4 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 7 --stage ft --seed 4 --pseed 4 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 8 --stage ft --seed 4 --pseed 4 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl
+--subject 9 --stage ft --seed 4 --pseed 4 --ctrl 1 --epochs 300 --lr 3e-4 --warmup 10 --tag HY_ctrl

@@ -1,0 +1,15 @@
+# datasets (large, not redistributed): see data/README.md
+data/*
+!data/README.md
+
+# intermediate checkpoints (pretrained and per-seed fine-tuned models); final bundles are kept
+checkpoints/*
+!checkpoints/final/
+
+# environments, caches, logs
+.venv/
+__pycache__/
+*.pyc
+*.log
+*.tmp
+.DS_Store

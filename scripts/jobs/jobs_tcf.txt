@@ -1,0 +1,54 @@
+--model TCFormer --subject 1 --seed 0 --ea 1 --sr 1
+--model TCFormer_d2 --subject 1 --seed 0 --ea 1 --sr 1
+--model TCFormer --subject 1 --seed 0 --ea 0 --sr 1 --jitter 0 --ls 0 --opt adam --beta1 0.5 --lr 9e-4 --wd 1e-3 --bs 48 --epochs 1000 --tag TCFormer_paperrecipe
+--model TCFormer --subject 2 --seed 0 --ea 1 --sr 1
+--model TCFormer_d2 --subject 2 --seed 0 --ea 1 --sr 1
+--model TCFormer --subject 2 --seed 0 --ea 0 --sr 1 --jitter 0 --ls 0 --opt adam --beta1 0.5 --lr 9e-4 --wd 1e-3 --bs 48 --epochs 1000 --tag TCFormer_paperrecipe
+--model TCFormer --subject 3 --seed 0 --ea 1 --sr 1
+--model TCFormer_d2 --subject 3 --seed 0 --ea 1 --sr 1
+--model TCFormer --subject 3 --seed 0 --ea 0 --sr 1 --jitter 0 --ls 0 --opt adam --beta1 0.5 --lr 9e-4 --wd 1e-3 --bs 48 --epochs 1000 --tag TCFormer_paperrecipe
+--model TCFormer --subject 4 --seed 0 --ea 1 --sr 1
+--model TCFormer_d2 --subject 4 --seed 0 --ea 1 --sr 1
+--model TCFormer --subject 4 --seed 0 --ea 0 --sr 1 --jitter 0 --ls 0 --opt adam --beta1 0.5 --lr 9e-4 --wd 1e-3 --bs 48 --epochs 1000 --tag TCFormer_paperrecipe
+--model TCFormer --subject 5 --seed 0 --ea 1 --sr 1
+--model TCFormer_d2 --subject 5 --seed 0 --ea 1 --sr 1
+--model TCFormer --subject 5 --seed 0 --ea 0 --sr 1 --jitter 0 --ls 0 --opt adam --beta1 0.5 --lr 9e-4 --wd 1e-3 --bs 48 --epochs 1000 --tag TCFormer_paperrecipe
+--model TCFormer --subject 6 --seed 0 --ea 1 --sr 1
+--model TCFormer_d2 --subject 6 --seed 0 --ea 1 --sr 1
+--model TCFormer --subject 6 --seed 0 --ea 0 --sr 1 --jitter 0 --ls 0 --opt adam --beta1 0.5 --lr 9e-4 --wd 1e-3 --bs 48 --epochs 1000 --tag TCFormer_paperrecipe
+--model TCFormer --subject 7 --seed 0 --ea 1 --sr 1
+--model TCFormer_d2 --subject 7 --seed 0 --ea 1 --sr 1
+--model TCFormer --subject 7 --seed 0 --ea 0 --sr 1 --jitter 0 --ls 0 --opt adam --beta1 0.5 --lr 9e-4 --wd 1e-3 --bs 48 --epochs 1000 --tag TCFormer_paperrecipe
+--model TCFormer --subject 8 --seed 0 --ea 1 --sr 1
+--model TCFormer_d2 --subject 8 --seed 0 --ea 1 --sr 1
+--model TCFormer --subject 8 --seed 0 --ea 0 --sr 1 --jitter 0 --ls 0 --opt adam --beta1 0.5 --lr 9e-4 --wd 1e-3 --bs 48 --epochs 1000 --tag TCFormer_paperrecipe
+--model TCFormer --subject 9 --seed 0 --ea 1 --sr 1
+--model TCFormer_d2 --subject 9 --seed 0 --ea 1 --sr 1
+--model TCFormer --subject 9 --seed 0 --ea 0 --sr 1 --jitter 0 --ls 0 --opt adam --beta1 0.5 --lr 9e-4 --wd 1e-3 --bs 48 --epochs 1000 --tag TCFormer_paperrecipe
+--model TCFormer --subject 1 --seed 1 --ea 1 --sr 1
+--model TCFormer_d2 --subject 1 --seed 1 --ea 1 --sr 1
+--model TCFormer --subject 1 --seed 1 --ea 0 --sr 1 --jitter 0 --ls 0 --opt adam --beta1 0.5 --lr 9e-4 --wd 1e-3 --bs 48 --epochs 1000 --tag TCFormer_paperrecipe
+--model TCFormer --subject 2 --seed 1 --ea 1 --sr 1
+--model TCFormer_d2 --subject 2 --seed 1 --ea 1 --sr 1
+--model TCFormer --subject 2 --seed 1 --ea 0 --sr 1 --jitter 0 --ls 0 --opt adam --beta1 0.5 --lr 9e-4 --wd 1e-3 --bs 48 --epochs 1000 --tag TCFormer_paperrecipe
+--model TCFormer --subject 3 --seed 1 --ea 1 --sr 1
+--model TCFormer_d2 --subject 3 --seed 1 --ea 1 --sr 1
+--model TCFormer --subject 3 --seed 1 --ea 0 --sr 1 --jitter 0 --ls 0 --opt adam --beta1 0.5 --lr 9e-4 --wd 1e-3 --bs 48 --epochs 1000 --tag TCFormer_paperrecipe
+--model TCFormer --subject 4 --seed 1 --ea 1 --sr 1
+--model TCFormer_d2 --subject 4 --seed 1 --ea 1 --sr 1
+--model TCFormer --subject 4 --seed 1 --ea 0 --sr 1 --jitter 0 --ls 0 --opt adam --beta1 0.5 --lr 9e-4 --wd 1e-3 --bs 48 --epochs 1000 --tag TCFormer_paperrecipe
+--model TCFormer --subject 5 --seed 1 --ea 1 --sr 1
+--model TCFormer_d2 --subject 5 --seed 1 --ea 1 --sr 1
+--model TCFormer --subject 5 --seed 1 --ea 0 --sr 1 --jitter 0 --ls 0 --opt adam --beta1 0.5 --lr 9e-4 --wd 1e-3 --bs 48 --epochs 1000 --tag TCFormer_paperrecipe
+--model TCFormer --subject 6 --seed 1 --ea 1 --sr 1
+--model TCFormer_d2 --subject 6 --seed 1 --ea 1 --sr 1
+--model TCFormer --subject 6 --seed 1 --ea 0 --sr 1 --jitter 0 --ls 0 --opt adam --beta1 0.5 --lr 9e-4 --wd 1e-3 --bs 48 --epochs 1000 --tag TCFormer_paperrecipe
+--model TCFormer --subject 7 --seed 1 --ea 1 --sr 1
+--model TCFormer_d2 --subject 7 --seed 1 --ea 1 --sr 1
+--model TCFormer --subject 7 --seed 1 --ea 0 --sr 1 --jitter 0 --ls 0 --opt adam --beta1 0.5 --lr 9e-4 --wd 1e-3 --bs 48 --epochs 1000 --tag TCFormer_paperrecipe
+--model TCFormer --subject 8 --seed 1 --ea 1 --sr 1
+--model TCFormer_d2 --subject 8 --seed 1 --ea 1 --sr 1
+--model TCFormer --subject 8 --seed 1 --ea 0 --sr 1 --jitter 0 --ls 0 --opt adam --beta1 0.5 --lr 9e-4 --wd 1e-3 --bs 48 --epochs 1000 --tag TCFormer_paperrecipe
+--model TCFormer --subject 9 --seed 1 --ea 1 --sr 1
+--model TCFormer_d2 --subject 9 --seed 1 --ea 1 --sr 1
+--model TCFormer --subject 9 --seed 1 --ea 0 --sr 1 --jitter 0 --ls 0 --opt adam --beta1 0.5 --lr 9e-4 --wd 1e-3 --bs 48 --epochs 1000 --tag TCFormer_paperrecipe

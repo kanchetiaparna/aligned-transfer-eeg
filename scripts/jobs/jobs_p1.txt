@@ -1,0 +1,198 @@
+--model ATCNet --subject 1 --seed 0 --ea 1 --sr 1
+--model MSCFormer --subject 1 --seed 0 --ea 1 --sr 1
+--model EEGConformer --subject 1 --seed 0 --ea 1 --sr 1
+--model CTNet --subject 1 --seed 0 --ea 1 --sr 1
+--model MSVTNet --subject 1 --seed 0 --ea 1 --sr 1
+--model IFNet --subject 1 --seed 0 --ea 1 --sr 1
+--model EEGTCNet --subject 1 --seed 0 --ea 1 --sr 1
+--model EEGNet --subject 1 --seed 0 --ea 1 --sr 1
+--model ShallowFBCSPNet --subject 1 --seed 0 --ea 1 --sr 1
+--model ATCNet --subject 1 --seed 0 --ea 0 --sr 0 --jitter 0 --ls 0
+--model MSCFormer --subject 1 --seed 0 --ea 0 --sr 0 --jitter 0 --ls 0
+--model ATCNet --subject 2 --seed 0 --ea 1 --sr 1
+--model MSCFormer --subject 2 --seed 0 --ea 1 --sr 1
+--model EEGConformer --subject 2 --seed 0 --ea 1 --sr 1
+--model CTNet --subject 2 --seed 0 --ea 1 --sr 1
+--model MSVTNet --subject 2 --seed 0 --ea 1 --sr 1
+--model IFNet --subject 2 --seed 0 --ea 1 --sr 1
+--model EEGTCNet --subject 2 --seed 0 --ea 1 --sr 1
+--model EEGNet --subject 2 --seed 0 --ea 1 --sr 1
+--model ShallowFBCSPNet --subject 2 --seed 0 --ea 1 --sr 1
+--model ATCNet --subject 2 --seed 0 --ea 0 --sr 0 --jitter 0 --ls 0
+--model MSCFormer --subject 2 --seed 0 --ea 0 --sr 0 --jitter 0 --ls 0
+--model ATCNet --subject 3 --seed 0 --ea 1 --sr 1
+--model MSCFormer --subject 3 --seed 0 --ea 1 --sr 1
+--model EEGConformer --subject 3 --seed 0 --ea 1 --sr 1
+--model CTNet --subject 3 --seed 0 --ea 1 --sr 1
+--model MSVTNet --subject 3 --seed 0 --ea 1 --sr 1
+--model IFNet --subject 3 --seed 0 --ea 1 --sr 1
+--model EEGTCNet --subject 3 --seed 0 --ea 1 --sr 1
+--model EEGNet --subject 3 --seed 0 --ea 1 --sr 1
+--model ShallowFBCSPNet --subject 3 --seed 0 --ea 1 --sr 1
+--model ATCNet --subject 3 --seed 0 --ea 0 --sr 0 --jitter 0 --ls 0
+--model MSCFormer --subject 3 --seed 0 --ea 0 --sr 0 --jitter 0 --ls 0
+--model ATCNet --subject 4 --seed 0 --ea 1 --sr 1
+--model MSCFormer --subject 4 --seed 0 --ea 1 --sr 1
+--model EEGConformer --subject 4 --seed 0 --ea 1 --sr 1
+--model CTNet --subject 4 --seed 0 --ea 1 --sr 1
+--model MSVTNet --subject 4 --seed 0 --ea 1 --sr 1
+--model IFNet --subject 4 --seed 0 --ea 1 --sr 1
+--model EEGTCNet --subject 4 --seed 0 --ea 1 --sr 1
+--model EEGNet --subject 4 --seed 0 --ea 1 --sr 1
+--model ShallowFBCSPNet --subject 4 --seed 0 --ea 1 --sr 1
+--model ATCNet --subject 4 --seed 0 --ea 0 --sr 0 --jitter 0 --ls 0
+--model MSCFormer --subject 4 --seed 0 --ea 0 --sr 0 --jitter 0 --ls 0
+--model ATCNet --subject 5 --seed 0 --ea 1 --sr 1
+--model MSCFormer --subject 5 --seed 0 --ea 1 --sr 1
+--model EEGConformer --subject 5 --seed 0 --ea 1 --sr 1
+--model CTNet --subject 5 --seed 0 --ea 1 --sr 1
+--model MSVTNet --subject 5 --seed 0 --ea 1 --sr 1
+--model IFNet --subject 5 --seed 0 --ea 1 --sr 1
+--model EEGTCNet --subject 5 --seed 0 --ea 1 --sr 1
+--model EEGNet --subject 5 --seed 0 --ea 1 --sr 1
+--model ShallowFBCSPNet --subject 5 --seed 0 --ea 1 --sr 1
+--model ATCNet --subject 5 --seed 0 --ea 0 --sr 0 --jitter 0 --ls 0
+--model MSCFormer --subject 5 --seed 0 --ea 0 --sr 0 --jitter 0 --ls 0
+--model ATCNet --subject 6 --seed 0 --ea 1 --sr 1
+--model MSCFormer --subject 6 --seed 0 --ea 1 --sr 1
+--model EEGConformer --subject 6 --seed 0 --ea 1 --sr 1
+--model CTNet --subject 6 --seed 0 --ea 1 --sr 1
+--model MSVTNet --subject 6 --seed 0 --ea 1 --sr 1
+--model IFNet --subject 6 --seed 0 --ea 1 --sr 1
+--model EEGTCNet --subject 6 --seed 0 --ea 1 --sr 1
+--model EEGNet --subject 6 --seed 0 --ea 1 --sr 1
+--model ShallowFBCSPNet --subject 6 --seed 0 --ea 1 --sr 1
+--model ATCNet --subject 6 --seed 0 --ea 0 --sr 0 --jitter 0 --ls 0
+--model MSCFormer --subject 6 --seed 0 --ea 0 --sr 0 --jitter 0 --ls 0
+--model ATCNet --subject 7 --seed 0 --ea 1 --sr 1
+--model MSCFormer --subject 7 --seed 0 --ea 1 --sr 1
+--model EEGConformer --subject 7 --seed 0 --ea 1 --sr 1
+--model CTNet --subject 7 --seed 0 --ea 1 --sr 1
+--model MSVTNet --subject 7 --seed 0 --ea 1 --sr 1
+--model IFNet --subject 7 --seed 0 --ea 1 --sr 1
+--model EEGTCNet --subject 7 --seed 0 --ea 1 --sr 1
+--model EEGNet --subject 7 --seed 0 --ea 1 --sr 1
+--model ShallowFBCSPNet --subject 7 --seed 0 --ea 1 --sr 1
+--model ATCNet --subject 7 --seed 0 --ea 0 --sr 0 --jitter 0 --ls 0
+--model MSCFormer --subject 7 --seed 0 --ea 0 --sr 0 --jitter 0 --ls 0
+--model ATCNet --subject 8 --seed 0 --ea 1 --sr 1
+--model MSCFormer --subject 8 --seed 0 --ea 1 --sr 1
+--model EEGConformer --subject 8 --seed 0 --ea 1 --sr 1
+--model CTNet --subject 8 --seed 0 --ea 1 --sr 1
+--model MSVTNet --subject 8 --seed 0 --ea 1 --sr 1
+--model IFNet --subject 8 --seed 0 --ea 1 --sr 1
+--model EEGTCNet --subject 8 --seed 0 --ea 1 --sr 1
+--model EEGNet --subject 8 --seed 0 --ea 1 --sr 1
+--model ShallowFBCSPNet --subject 8 --seed 0 --ea 1 --sr 1
+--model ATCNet --subject 8 --seed 0 --ea 0 --sr 0 --jitter 0 --ls 0
+--model MSCFormer --subject 8 --seed 0 --ea 0 --sr 0 --jitter 0 --ls 0
+--model ATCNet --subject 9 --seed 0 --ea 1 --sr 1
+--model MSCFormer --subject 9 --seed 0 --ea 1 --sr 1
+--model EEGConformer --subject 9 --seed 0 --ea 1 --sr 1
+--model CTNet --subject 9 --seed 0 --ea 1 --sr 1
+--model MSVTNet --subject 9 --seed 0 --ea 1 --sr 1
+--model IFNet --subject 9 --seed 0 --ea 1 --sr 1
+--model EEGTCNet --subject 9 --seed 0 --ea 1 --sr 1
+--model EEGNet --subject 9 --seed 0 --ea 1 --sr 1
+--model ShallowFBCSPNet --subject 9 --seed 0 --ea 1 --sr 1
+--model ATCNet --subject 9 --seed 0 --ea 0 --sr 0 --jitter 0 --ls 0
+--model MSCFormer --subject 9 --seed 0 --ea 0 --sr 0 --jitter 0 --ls 0
+--model ATCNet --subject 1 --seed 1 --ea 1 --sr 1
+--model MSCFormer --subject 1 --seed 1 --ea 1 --sr 1
+--model EEGConformer --subject 1 --seed 1 --ea 1 --sr 1
+--model CTNet --subject 1 --seed 1 --ea 1 --sr 1
+--model MSVTNet --subject 1 --seed 1 --ea 1 --sr 1
+--model IFNet --subject 1 --seed 1 --ea 1 --sr 1
+--model EEGTCNet --subject 1 --seed 1 --ea 1 --sr 1
+--model EEGNet --subject 1 --seed 1 --ea 1 --sr 1
+--model ShallowFBCSPNet --subject 1 --seed 1 --ea 1 --sr 1
+--model ATCNet --subject 1 --seed 1 --ea 0 --sr 0 --jitter 0 --ls 0
+--model MSCFormer --subject 1 --seed 1 --ea 0 --sr 0 --jitter 0 --ls 0
+--model ATCNet --subject 2 --seed 1 --ea 1 --sr 1
+--model MSCFormer --subject 2 --seed 1 --ea 1 --sr 1
+--model EEGConformer --subject 2 --seed 1 --ea 1 --sr 1
+--model CTNet --subject 2 --seed 1 --ea 1 --sr 1
+--model MSVTNet --subject 2 --seed 1 --ea 1 --sr 1
+--model IFNet --subject 2 --seed 1 --ea 1 --sr 1
+--model EEGTCNet --subject 2 --seed 1 --ea 1 --sr 1
+--model EEGNet --subject 2 --seed 1 --ea 1 --sr 1
+--model ShallowFBCSPNet --subject 2 --seed 1 --ea 1 --sr 1
+--model ATCNet --subject 2 --seed 1 --ea 0 --sr 0 --jitter 0 --ls 0
+--model MSCFormer --subject 2 --seed 1 --ea 0 --sr 0 --jitter 0 --ls 0
+--model ATCNet --subject 3 --seed 1 --ea 1 --sr 1
+--model MSCFormer --subject 3 --seed 1 --ea 1 --sr 1
+--model EEGConformer --subject 3 --seed 1 --ea 1 --sr 1
+--model CTNet --subject 3 --seed 1 --ea 1 --sr 1
+--model MSVTNet --subject 3 --seed 1 --ea 1 --sr 1
+--model IFNet --subject 3 --seed 1 --ea 1 --sr 1
+--model EEGTCNet --subject 3 --seed 1 --ea 1 --sr 1
+--model EEGNet --subject 3 --seed 1 --ea 1 --sr 1
+--model ShallowFBCSPNet --subject 3 --seed 1 --ea 1 --sr 1
+--model ATCNet --subject 3 --seed 1 --ea 0 --sr 0 --jitter 0 --ls 0
+--model MSCFormer --subject 3 --seed 1 --ea 0 --sr 0 --jitter 0 --ls 0
+--model ATCNet --subject 4 --seed 1 --ea 1 --sr 1
+--model MSCFormer --subject 4 --seed 1 --ea 1 --sr 1
+--model EEGConformer --subject 4 --seed 1 --ea 1 --sr 1
+--model CTNet --subject 4 --seed 1 --ea 1 --sr 1
+--model MSVTNet --subject 4 --seed 1 --ea 1 --sr 1
+--model IFNet --subject 4 --seed 1 --ea 1 --sr 1
+--model EEGTCNet --subject 4 --seed 1 --ea 1 --sr 1
+--model EEGNet --subject 4 --seed 1 --ea 1 --sr 1
+--model ShallowFBCSPNet --subject 4 --seed 1 --ea 1 --sr 1
+--model ATCNet --subject 4 --seed 1 --ea 0 --sr 0 --jitter 0 --ls 0
+--model MSCFormer --subject 4 --seed 1 --ea 0 --sr 0 --jitter 0 --ls 0
+--model ATCNet --subject 5 --seed 1 --ea 1 --sr 1
+--model MSCFormer --subject 5 --seed 1 --ea 1 --sr 1
+--model EEGConformer --subject 5 --seed 1 --ea 1 --sr 1
+--model CTNet --subject 5 --seed 1 --ea 1 --sr 1
+--model MSVTNet --subject 5 --seed 1 --ea 1 --sr 1
+--model IFNet --subject 5 --seed 1 --ea 1 --sr 1
+--model EEGTCNet --subject 5 --seed 1 --ea 1 --sr 1
+--model EEGNet --subject 5 --seed 1 --ea 1 --sr 1
+--model ShallowFBCSPNet --subject 5 --seed 1 --ea 1 --sr 1
+--model ATCNet --subject 5 --seed 1 --ea 0 --sr 0 --jitter 0 --ls 0
+--model MSCFormer --subject 5 --seed 1 --ea 0 --sr 0 --jitter 0 --ls 0
+--model ATCNet --subject 6 --seed 1 --ea 1 --sr 1
+--model MSCFormer --subject 6 --seed 1 --ea 1 --sr 1
+--model EEGConformer --subject 6 --seed 1 --ea 1 --sr 1
+--model CTNet --subject 6 --seed 1 --ea 1 --sr 1
+--model MSVTNet --subject 6 --seed 1 --ea 1 --sr 1
+--model IFNet --subject 6 --seed 1 --ea 1 --sr 1
+--model EEGTCNet --subject 6 --seed 1 --ea 1 --sr 1
+--model EEGNet --subject 6 --seed 1 --ea 1 --sr 1
+--model ShallowFBCSPNet --subject 6 --seed 1 --ea 1 --sr 1
+--model ATCNet --subject 6 --seed 1 --ea 0 --sr 0 --jitter 0 --ls 0
+--model MSCFormer --subject 6 --seed 1 --ea 0 --sr 0 --jitter 0 --ls 0
+--model ATCNet --subject 7 --seed 1 --ea 1 --sr 1
+--model MSCFormer --subject 7 --seed 1 --ea 1 --sr 1
+--model EEGConformer --subject 7 --seed 1 --ea 1 --sr 1
+--model CTNet --subject 7 --seed 1 --ea 1 --sr 1
+--model MSVTNet --subject 7 --seed 1 --ea 1 --sr 1
+--model IFNet --subject 7 --seed 1 --ea 1 --sr 1
+--model EEGTCNet --subject 7 --seed 1 --ea 1 --sr 1
+--model EEGNet --subject 7 --seed 1 --ea 1 --sr 1
+--model ShallowFBCSPNet --subject 7 --seed 1 --ea 1 --sr 1
+--model ATCNet --subject 7 --seed 1 --ea 0 --sr 0 --jitter 0 --ls 0
+--model MSCFormer --subject 7 --seed 1 --ea 0 --sr 0 --jitter 0 --ls 0
+--model ATCNet --subject 8 --seed 1 --ea 1 --sr 1
+--model MSCFormer --subject 8 --seed 1 --ea 1 --sr 1
+--model EEGConformer --subject 8 --seed 1 --ea 1 --sr 1
+--model CTNet --subject 8 --seed 1 --ea 1 --sr 1
+--model MSVTNet --subject 8 --seed 1 --ea 1 --sr 1
+--model IFNet --subject 8 --seed 1 --ea 1 --sr 1
+--model EEGTCNet --subject 8 --seed 1 --ea 1 --sr 1
+--model EEGNet --subject 8 --seed 1 --ea 1 --sr 1
+--model ShallowFBCSPNet --subject 8 --seed 1 --ea 1 --sr 1
+--model ATCNet --subject 8 --seed 1 --ea 0 --sr 0 --jitter 0 --ls 0
+--model MSCFormer --subject 8 --seed 1 --ea 0 --sr 0 --jitter 0 --ls 0
+--model ATCNet --subject 9 --seed 1 --ea 1 --sr 1
+--model MSCFormer --subject 9 --seed 1 --ea 1 --sr 1
+--model EEGConformer --subject 9 --seed 1 --ea 1 --sr 1
+--model CTNet --subject 9 --seed 1 --ea 1 --sr 1
+--model MSVTNet --subject 9 --seed 1 --ea 1 --sr 1
+--model IFNet --subject 9 --seed 1 --ea 1 --sr 1
+--model EEGTCNet --subject 9 --seed 1 --ea 1 --sr 1
+--model EEGNet --subject 9 --seed 1 --ea 1 --sr 1
+--model ShallowFBCSPNet --subject 9 --seed 1 --ea 1 --sr 1
+--model ATCNet --subject 9 --seed 1 --ea 0 --sr 0 --jitter 0 --ls 0
+--model MSCFormer --subject 9 --seed 1 --ea 0 --sr 0 --jitter 0 --ls 0

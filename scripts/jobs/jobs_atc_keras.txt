@@ -1,0 +1,290 @@
+--subject 1 --run 0 --protocol paper --keras 1 --tag paper_keras
+--subject 2 --run 0 --protocol paper --keras 1 --tag paper_keras
+--subject 3 --run 0 --protocol paper --keras 1 --tag paper_keras
+--subject 4 --run 0 --protocol paper --keras 1 --tag paper_keras
+--subject 5 --run 0 --protocol paper --keras 1 --tag paper_keras
+--subject 6 --run 0 --protocol paper --keras 1 --tag paper_keras
+--subject 7 --run 0 --protocol paper --keras 1 --tag paper_keras
+--subject 8 --run 0 --protocol paper --keras 1 --tag paper_keras
+--subject 9 --run 0 --protocol paper --keras 1 --tag paper_keras
+--subject 1 --run 1 --protocol paper --keras 1 --tag paper_keras
+--subject 2 --run 1 --protocol paper --keras 1 --tag paper_keras
+--subject 3 --run 1 --protocol paper --keras 1 --tag paper_keras
+--subject 4 --run 1 --protocol paper --keras 1 --tag paper_keras
+--subject 5 --run 1 --protocol paper --keras 1 --tag paper_keras
+--subject 6 --run 1 --protocol paper --keras 1 --tag paper_keras
+--subject 7 --run 1 --protocol paper --keras 1 --tag paper_keras
+--subject 8 --run 1 --protocol paper --keras 1 --tag paper_keras
+--subject 9 --run 1 --protocol paper --keras 1 --tag paper_keras
+--subject 1 --run 2 --protocol paper --keras 1 --tag paper_keras
+--subject 2 --run 2 --protocol paper --keras 1 --tag paper_keras
+--subject 3 --run 2 --protocol paper --keras 1 --tag paper_keras
+--subject 4 --run 2 --protocol paper --keras 1 --tag paper_keras
+--subject 5 --run 2 --protocol paper --keras 1 --tag paper_keras
+--subject 6 --run 2 --protocol paper --keras 1 --tag paper_keras
+--subject 7 --run 2 --protocol paper --keras 1 --tag paper_keras
+--subject 8 --run 2 --protocol paper --keras 1 --tag paper_keras
+--subject 9 --run 2 --protocol paper --keras 1 --tag paper_keras
+--subject 1 --run 3 --protocol paper --keras 1 --tag paper_keras
+--subject 2 --run 3 --protocol paper --keras 1 --tag paper_keras
+--subject 3 --run 3 --protocol paper --keras 1 --tag paper_keras
+--subject 4 --run 3 --protocol paper --keras 1 --tag paper_keras
+--subject 5 --run 3 --protocol paper --keras 1 --tag paper_keras
+--subject 6 --run 3 --protocol paper --keras 1 --tag paper_keras
+--subject 7 --run 3 --protocol paper --keras 1 --tag paper_keras
+--subject 8 --run 3 --protocol paper --keras 1 --tag paper_keras
+--subject 9 --run 3 --protocol paper --keras 1 --tag paper_keras
+--subject 1 --run 4 --protocol paper --keras 1 --tag paper_keras
+--subject 2 --run 4 --protocol paper --keras 1 --tag paper_keras
+--subject 3 --run 4 --protocol paper --keras 1 --tag paper_keras
+--subject 4 --run 4 --protocol paper --keras 1 --tag paper_keras
+--subject 5 --run 4 --protocol paper --keras 1 --tag paper_keras
+--subject 6 --run 4 --protocol paper --keras 1 --tag paper_keras
+--subject 7 --run 4 --protocol paper --keras 1 --tag paper_keras
+--subject 8 --run 4 --protocol paper --keras 1 --tag paper_keras
+--subject 9 --run 4 --protocol paper --keras 1 --tag paper_keras
+--subject 1 --run 5 --protocol paper --keras 1 --tag paper_keras
+--subject 2 --run 5 --protocol paper --keras 1 --tag paper_keras
+--subject 3 --run 5 --protocol paper --keras 1 --tag paper_keras
+--subject 4 --run 5 --protocol paper --keras 1 --tag paper_keras
+--subject 5 --run 5 --protocol paper --keras 1 --tag paper_keras
+--subject 6 --run 5 --protocol paper --keras 1 --tag paper_keras
+--subject 7 --run 5 --protocol paper --keras 1 --tag paper_keras
+--subject 8 --run 5 --protocol paper --keras 1 --tag paper_keras
+--subject 9 --run 5 --protocol paper --keras 1 --tag paper_keras
+--subject 1 --run 6 --protocol paper --keras 1 --tag paper_keras
+--subject 2 --run 6 --protocol paper --keras 1 --tag paper_keras
+--subject 3 --run 6 --protocol paper --keras 1 --tag paper_keras
+--subject 4 --run 6 --protocol paper --keras 1 --tag paper_keras
+--subject 5 --run 6 --protocol paper --keras 1 --tag paper_keras
+--subject 6 --run 6 --protocol paper --keras 1 --tag paper_keras
+--subject 7 --run 6 --protocol paper --keras 1 --tag paper_keras
+--subject 8 --run 6 --protocol paper --keras 1 --tag paper_keras
+--subject 9 --run 6 --protocol paper --keras 1 --tag paper_keras
+--subject 1 --run 7 --protocol paper --keras 1 --tag paper_keras
+--subject 2 --run 7 --protocol paper --keras 1 --tag paper_keras
+--subject 3 --run 7 --protocol paper --keras 1 --tag paper_keras
+--subject 4 --run 7 --protocol paper --keras 1 --tag paper_keras
+--subject 5 --run 7 --protocol paper --keras 1 --tag paper_keras
+--subject 6 --run 7 --protocol paper --keras 1 --tag paper_keras
+--subject 7 --run 7 --protocol paper --keras 1 --tag paper_keras
+--subject 8 --run 7 --protocol paper --keras 1 --tag paper_keras
+--subject 9 --run 7 --protocol paper --keras 1 --tag paper_keras
+--subject 1 --run 8 --protocol paper --keras 1 --tag paper_keras
+--subject 2 --run 8 --protocol paper --keras 1 --tag paper_keras
+--subject 3 --run 8 --protocol paper --keras 1 --tag paper_keras
+--subject 4 --run 8 --protocol paper --keras 1 --tag paper_keras
+--subject 5 --run 8 --protocol paper --keras 1 --tag paper_keras
+--subject 6 --run 8 --protocol paper --keras 1 --tag paper_keras
+--subject 7 --run 8 --protocol paper --keras 1 --tag paper_keras
+--subject 8 --run 8 --protocol paper --keras 1 --tag paper_keras
+--subject 9 --run 8 --protocol paper --keras 1 --tag paper_keras
+--subject 1 --run 9 --protocol paper --keras 1 --tag paper_keras
+--subject 2 --run 9 --protocol paper --keras 1 --tag paper_keras
+--subject 3 --run 9 --protocol paper --keras 1 --tag paper_keras
+--subject 4 --run 9 --protocol paper --keras 1 --tag paper_keras
+--subject 5 --run 9 --protocol paper --keras 1 --tag paper_keras
+--subject 6 --run 9 --protocol paper --keras 1 --tag paper_keras
+--subject 7 --run 9 --protocol paper --keras 1 --tag paper_keras
+--subject 8 --run 9 --protocol paper --keras 1 --tag paper_keras
+--subject 9 --run 9 --protocol paper --keras 1 --tag paper_keras
+--subject 1 --run 0 --protocol honest --keras 1 --tag honest_keras
+--subject 2 --run 0 --protocol honest --keras 1 --tag honest_keras
+--subject 3 --run 0 --protocol honest --keras 1 --tag honest_keras
+--subject 4 --run 0 --protocol honest --keras 1 --tag honest_keras
+--subject 5 --run 0 --protocol honest --keras 1 --tag honest_keras
+--subject 6 --run 0 --protocol honest --keras 1 --tag honest_keras
+--subject 7 --run 0 --protocol honest --keras 1 --tag honest_keras
+--subject 8 --run 0 --protocol honest --keras 1 --tag honest_keras
+--subject 9 --run 0 --protocol honest --keras 1 --tag honest_keras
+--subject 1 --run 1 --protocol honest --keras 1 --tag honest_keras
+--subject 2 --run 1 --protocol honest --keras 1 --tag honest_keras
+--subject 3 --run 1 --protocol honest --keras 1 --tag honest_keras
+--subject 4 --run 1 --protocol honest --keras 1 --tag honest_keras
+--subject 5 --run 1 --protocol honest --keras 1 --tag honest_keras
+--subject 6 --run 1 --protocol honest --keras 1 --tag honest_keras
+--subject 7 --run 1 --protocol honest --keras 1 --tag honest_keras
+--subject 8 --run 1 --protocol honest --keras 1 --tag honest_keras
+--subject 9 --run 1 --protocol honest --keras 1 --tag honest_keras
+--subject 1 --run 2 --protocol honest --keras 1 --tag honest_keras
+--subject 2 --run 2 --protocol honest --keras 1 --tag honest_keras
+--subject 3 --run 2 --protocol honest --keras 1 --tag honest_keras
+--subject 4 --run 2 --protocol honest --keras 1 --tag honest_keras
+--subject 5 --run 2 --protocol honest --keras 1 --tag honest_keras
+--subject 6 --run 2 --protocol honest --keras 1 --tag honest_keras
+--subject 7 --run 2 --protocol honest --keras 1 --tag honest_keras
+--subject 8 --run 2 --protocol honest --keras 1 --tag honest_keras
+--subject 9 --run 2 --protocol honest --keras 1 --tag honest_keras
+--subject 1 --run 3 --protocol honest --keras 1 --tag honest_keras
+--subject 2 --run 3 --protocol honest --keras 1 --tag honest_keras
+--subject 3 --run 3 --protocol honest --keras 1 --tag honest_keras
+--subject 4 --run 3 --protocol honest --keras 1 --tag honest_keras
+--subject 5 --run 3 --protocol honest --keras 1 --tag honest_keras
+--subject 6 --run 3 --protocol honest --keras 1 --tag honest_keras
+--subject 7 --run 3 --protocol honest --keras 1 --tag honest_keras
+--subject 8 --run 3 --protocol honest --keras 1 --tag honest_keras
+--subject 9 --run 3 --protocol honest --keras 1 --tag honest_keras
+--subject 1 --run 4 --protocol honest --keras 1 --tag honest_keras
+--subject 2 --run 4 --protocol honest --keras 1 --tag honest_keras
+--subject 3 --run 4 --protocol honest --keras 1 --tag honest_keras
+--subject 4 --run 4 --protocol honest --keras 1 --tag honest_keras
+--subject 5 --run 4 --protocol honest --keras 1 --tag honest_keras
+--subject 6 --run 4 --protocol honest --keras 1 --tag honest_keras
+--subject 7 --run 4 --protocol honest --keras 1 --tag honest_keras
+--subject 8 --run 4 --protocol honest --keras 1 --tag honest_keras
+--subject 9 --run 4 --protocol honest --keras 1 --tag honest_keras
+--subject 1 --run 5 --protocol honest --keras 1 --tag honest_keras
+--subject 2 --run 5 --protocol honest --keras 1 --tag honest_keras
+--subject 3 --run 5 --protocol honest --keras 1 --tag honest_keras
+--subject 4 --run 5 --protocol honest --keras 1 --tag honest_keras
+--subject 5 --run 5 --protocol honest --keras 1 --tag honest_keras
+--subject 6 --run 5 --protocol honest --keras 1 --tag honest_keras
+--subject 7 --run 5 --protocol honest --keras 1 --tag honest_keras
+--subject 8 --run 5 --protocol honest --keras 1 --tag honest_keras
+--subject 9 --run 5 --protocol honest --keras 1 --tag honest_keras
+--subject 1 --run 6 --protocol honest --keras 1 --tag honest_keras
+--subject 2 --run 6 --protocol honest --keras 1 --tag honest_keras
+--subject 3 --run 6 --protocol honest --keras 1 --tag honest_keras
+--subject 4 --run 6 --protocol honest --keras 1 --tag honest_keras
+--subject 5 --run 6 --protocol honest --keras 1 --tag honest_keras
+--subject 6 --run 6 --protocol honest --keras 1 --tag honest_keras
+--subject 7 --run 6 --protocol honest --keras 1 --tag honest_keras
+--subject 8 --run 6 --protocol honest --keras 1 --tag honest_keras
+--subject 9 --run 6 --protocol honest --keras 1 --tag honest_keras
+--subject 1 --run 7 --protocol honest --keras 1 --tag honest_keras
+--subject 2 --run 7 --protocol honest --keras 1 --tag honest_keras
+--subject 3 --run 7 --protocol honest --keras 1 --tag honest_keras
+--subject 4 --run 7 --protocol honest --keras 1 --tag honest_keras
+--subject 5 --run 7 --protocol honest --keras 1 --tag honest_keras
+--subject 6 --run 7 --protocol honest --keras 1 --tag honest_keras
+--subject 7 --run 7 --protocol honest --keras 1 --tag honest_keras
+--subject 8 --run 7 --protocol honest --keras 1 --tag honest_keras
+--subject 9 --run 7 --protocol honest --keras 1 --tag honest_keras
+--subject 1 --run 8 --protocol honest --keras 1 --tag honest_keras
+--subject 2 --run 8 --protocol honest --keras 1 --tag honest_keras
+--subject 3 --run 8 --protocol honest --keras 1 --tag honest_keras
+--subject 4 --run 8 --protocol honest --keras 1 --tag honest_keras
+--subject 5 --run 8 --protocol honest --keras 1 --tag honest_keras
+--subject 6 --run 8 --protocol honest --keras 1 --tag honest_keras
+--subject 7 --run 8 --protocol honest --keras 1 --tag honest_keras
+--subject 8 --run 8 --protocol honest --keras 1 --tag honest_keras
+--subject 9 --run 8 --protocol honest --keras 1 --tag honest_keras
+--subject 1 --run 9 --protocol honest --keras 1 --tag honest_keras
+--subject 2 --run 9 --protocol honest --keras 1 --tag honest_keras
+--subject 3 --run 9 --protocol honest --keras 1 --tag honest_keras
+--subject 4 --run 9 --protocol honest --keras 1 --tag honest_keras
+--subject 5 --run 9 --protocol honest --keras 1 --tag honest_keras
+--subject 6 --run 9 --protocol honest --keras 1 --tag honest_keras
+--subject 7 --run 9 --protocol honest --keras 1 --tag honest_keras
+--subject 8 --run 9 --protocol honest --keras 1 --tag honest_keras
+--subject 9 --run 9 --protocol honest --keras 1 --tag honest_keras
+--subject 1 --run 0 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 2 --run 0 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 3 --run 0 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 4 --run 0 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 5 --run 0 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 6 --run 0 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 7 --run 0 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 8 --run 0 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 9 --run 0 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 10 --run 0 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 11 --run 0 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 1 --run 1 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 2 --run 1 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 3 --run 1 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 4 --run 1 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 5 --run 1 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 6 --run 1 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 7 --run 1 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 8 --run 1 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 9 --run 1 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 10 --run 1 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 11 --run 1 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 1 --run 2 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 2 --run 2 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 3 --run 2 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 4 --run 2 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 5 --run 2 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 6 --run 2 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 7 --run 2 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 8 --run 2 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 9 --run 2 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 10 --run 2 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 11 --run 2 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 1 --run 3 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 2 --run 3 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 3 --run 3 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 4 --run 3 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 5 --run 3 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 6 --run 3 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 7 --run 3 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 8 --run 3 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 9 --run 3 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 10 --run 3 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 11 --run 3 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 1 --run 4 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 2 --run 4 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 3 --run 4 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 4 --run 4 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 5 --run 4 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 6 --run 4 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 7 --run 4 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 8 --run 4 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 9 --run 4 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 10 --run 4 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 11 --run 4 --protocol paper --keras 1 --data ../data/halt --tag halt_paper_keras
+--subject 1 --run 0 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 2 --run 0 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 3 --run 0 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 4 --run 0 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 5 --run 0 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 6 --run 0 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 7 --run 0 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 8 --run 0 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 9 --run 0 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 10 --run 0 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 11 --run 0 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 1 --run 1 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 2 --run 1 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 3 --run 1 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 4 --run 1 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 5 --run 1 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 6 --run 1 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 7 --run 1 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 8 --run 1 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 9 --run 1 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 10 --run 1 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 11 --run 1 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 1 --run 2 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 2 --run 2 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 3 --run 2 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 4 --run 2 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 5 --run 2 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 6 --run 2 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 7 --run 2 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 8 --run 2 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 9 --run 2 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 10 --run 2 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 11 --run 2 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 1 --run 3 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 2 --run 3 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 3 --run 3 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 4 --run 3 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 5 --run 3 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 6 --run 3 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 7 --run 3 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 8 --run 3 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 9 --run 3 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 10 --run 3 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 11 --run 3 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 1 --run 4 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 2 --run 4 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 3 --run 4 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 4 --run 4 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 5 --run 4 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 6 --run 4 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 7 --run 4 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 8 --run 4 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 9 --run 4 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 10 --run 4 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras
+--subject 11 --run 4 --protocol honest --keras 1 --data ../data/halt --tag halt_honest_keras

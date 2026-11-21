@@ -1,0 +1,200 @@
+--subject 1 --seed 0 --aug 1
+--subject 2 --seed 0 --aug 1
+--subject 3 --seed 0 --aug 1
+--subject 4 --seed 0 --aug 1
+--subject 5 --seed 0 --aug 1
+--subject 6 --seed 0 --aug 1
+--subject 7 --seed 0 --aug 1
+--subject 8 --seed 0 --aug 1
+--subject 9 --seed 0 --aug 1
+--subject 1 --seed 1 --aug 1
+--subject 2 --seed 1 --aug 1
+--subject 3 --seed 1 --aug 1
+--subject 4 --seed 1 --aug 1
+--subject 5 --seed 1 --aug 1
+--subject 6 --seed 1 --aug 1
+--subject 7 --seed 1 --aug 1
+--subject 8 --seed 1 --aug 1
+--subject 9 --seed 1 --aug 1
+--subject 1 --seed 2 --aug 1
+--subject 2 --seed 2 --aug 1
+--subject 3 --seed 2 --aug 1
+--subject 4 --seed 2 --aug 1
+--subject 5 --seed 2 --aug 1
+--subject 6 --seed 2 --aug 1
+--subject 7 --seed 2 --aug 1
+--subject 8 --seed 2 --aug 1
+--subject 9 --seed 2 --aug 1
+--subject 1 --seed 3 --aug 1
+--subject 2 --seed 3 --aug 1
+--subject 3 --seed 3 --aug 1
+--subject 4 --seed 3 --aug 1
+--subject 5 --seed 3 --aug 1
+--subject 6 --seed 3 --aug 1
+--subject 7 --seed 3 --aug 1
+--subject 8 --seed 3 --aug 1
+--subject 9 --seed 3 --aug 1
+--subject 1 --seed 4 --aug 1
+--subject 2 --seed 4 --aug 1
+--subject 3 --seed 4 --aug 1
+--subject 4 --seed 4 --aug 1
+--subject 5 --seed 4 --aug 1
+--subject 6 --seed 4 --aug 1
+--subject 7 --seed 4 --aug 1
+--subject 8 --seed 4 --aug 1
+--subject 9 --seed 4 --aug 1
+--subject 1 --seed 0 --aug 0
+--subject 2 --seed 0 --aug 0
+--subject 3 --seed 0 --aug 0
+--subject 4 --seed 0 --aug 0
+--subject 5 --seed 0 --aug 0
+--subject 6 --seed 0 --aug 0
+--subject 7 --seed 0 --aug 0
+--subject 8 --seed 0 --aug 0
+--subject 9 --seed 0 --aug 0
+--subject 1 --seed 1 --aug 0
+--subject 2 --seed 1 --aug 0
+--subject 3 --seed 1 --aug 0
+--subject 4 --seed 1 --aug 0
+--subject 5 --seed 1 --aug 0
+--subject 6 --seed 1 --aug 0
+--subject 7 --seed 1 --aug 0
+--subject 8 --seed 1 --aug 0
+--subject 9 --seed 1 --aug 0
+--subject 1 --seed 2 --aug 0
+--subject 2 --seed 2 --aug 0
+--subject 3 --seed 2 --aug 0
+--subject 4 --seed 2 --aug 0
+--subject 5 --seed 2 --aug 0
+--subject 6 --seed 2 --aug 0
+--subject 7 --seed 2 --aug 0
+--subject 8 --seed 2 --aug 0
+--subject 9 --seed 2 --aug 0
+--subject 1 --seed 3 --aug 0
+--subject 2 --seed 3 --aug 0
+--subject 3 --seed 3 --aug 0
+--subject 4 --seed 3 --aug 0
+--subject 5 --seed 3 --aug 0
+--subject 6 --seed 3 --aug 0
+--subject 7 --seed 3 --aug 0
+--subject 8 --seed 3 --aug 0
+--subject 9 --seed 3 --aug 0
+--subject 1 --seed 4 --aug 0
+--subject 2 --seed 4 --aug 0
+--subject 3 --seed 4 --aug 0
+--subject 4 --seed 4 --aug 0
+--subject 5 --seed 4 --aug 0
+--subject 6 --seed 4 --aug 0
+--subject 7 --seed 4 --aug 0
+--subject 8 --seed 4 --aug 0
+--subject 9 --seed 4 --aug 0
+--subject 1 --seed 0 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 2 --seed 0 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 3 --seed 0 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 4 --seed 0 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 5 --seed 0 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 6 --seed 0 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 7 --seed 0 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 8 --seed 0 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 9 --seed 0 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 10 --seed 0 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 11 --seed 0 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 1 --seed 1 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 2 --seed 1 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 3 --seed 1 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 4 --seed 1 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 5 --seed 1 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 6 --seed 1 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 7 --seed 1 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 8 --seed 1 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 9 --seed 1 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 10 --seed 1 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 11 --seed 1 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 1 --seed 2 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 2 --seed 2 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 3 --seed 2 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 4 --seed 2 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 5 --seed 2 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 6 --seed 2 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 7 --seed 2 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 8 --seed 2 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 9 --seed 2 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 10 --seed 2 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 11 --seed 2 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 1 --seed 3 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 2 --seed 3 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 3 --seed 3 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 4 --seed 3 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 5 --seed 3 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 6 --seed 3 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 7 --seed 3 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 8 --seed 3 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 9 --seed 3 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 10 --seed 3 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 11 --seed 3 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 1 --seed 4 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 2 --seed 4 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 3 --seed 4 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 4 --seed 4 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 5 --seed 4 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 6 --seed 4 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 7 --seed 4 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 8 --seed 4 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 9 --seed 4 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 10 --seed 4 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 11 --seed 4 --aug 1 --data ../data/halt --tag halt_aug1_d2
+--subject 1 --seed 0 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 2 --seed 0 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 3 --seed 0 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 4 --seed 0 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 5 --seed 0 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 6 --seed 0 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 7 --seed 0 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 8 --seed 0 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 9 --seed 0 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 10 --seed 0 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 11 --seed 0 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 1 --seed 1 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 2 --seed 1 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 3 --seed 1 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 4 --seed 1 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 5 --seed 1 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 6 --seed 1 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 7 --seed 1 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 8 --seed 1 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 9 --seed 1 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 10 --seed 1 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 11 --seed 1 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 1 --seed 2 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 2 --seed 2 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 3 --seed 2 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 4 --seed 2 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 5 --seed 2 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 6 --seed 2 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 7 --seed 2 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 8 --seed 2 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 9 --seed 2 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 10 --seed 2 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 11 --seed 2 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 1 --seed 3 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 2 --seed 3 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 3 --seed 3 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 4 --seed 3 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 5 --seed 3 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 6 --seed 3 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 7 --seed 3 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 8 --seed 3 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 9 --seed 3 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 10 --seed 3 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 11 --seed 3 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 1 --seed 4 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 2 --seed 4 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 3 --seed 4 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 4 --seed 4 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 5 --seed 4 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 6 --seed 4 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 7 --seed 4 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 8 --seed 4 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 9 --seed 4 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 10 --seed 4 --aug 0 --data ../data/halt --tag halt_aug0_d2
+--subject 11 --seed 4 --aug 0 --data ../data/halt --tag halt_aug0_d2

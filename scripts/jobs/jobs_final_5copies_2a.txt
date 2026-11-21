@@ -1,0 +1,160 @@
+--subject 1 --pseed 1 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 2 --pseed 1 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 3 --pseed 1 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 4 --pseed 1 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 5 --pseed 1 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 6 --pseed 1 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 7 --pseed 1 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 8 --pseed 1 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 9 --pseed 1 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 1 --pseed 1 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 2 --pseed 1 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 3 --pseed 1 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 4 --pseed 1 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 5 --pseed 1 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 6 --pseed 1 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 7 --pseed 1 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 8 --pseed 1 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 9 --pseed 1 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 10 --pseed 1 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 11 --pseed 1 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 1 --pseed 2 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 2 --pseed 2 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 3 --pseed 2 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 4 --pseed 2 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 5 --pseed 2 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 6 --pseed 2 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 7 --pseed 2 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 8 --pseed 2 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 9 --pseed 2 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 1 --pseed 2 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 2 --pseed 2 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 3 --pseed 2 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 4 --pseed 2 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 5 --pseed 2 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 6 --pseed 2 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 7 --pseed 2 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 8 --pseed 2 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 9 --pseed 2 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 10 --pseed 2 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 11 --pseed 2 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 1 --pseed 3 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 2 --pseed 3 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 3 --pseed 3 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 4 --pseed 3 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 5 --pseed 3 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 6 --pseed 3 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 7 --pseed 3 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 8 --pseed 3 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 9 --pseed 3 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 1 --pseed 3 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 2 --pseed 3 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 3 --pseed 3 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 4 --pseed 3 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 5 --pseed 3 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 6 --pseed 3 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 7 --pseed 3 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 8 --pseed 3 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 9 --pseed 3 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 10 --pseed 3 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 11 --pseed 3 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 1 --pseed 4 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 2 --pseed 4 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 3 --pseed 4 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 4 --pseed 4 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 5 --pseed 4 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 6 --pseed 4 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 7 --pseed 4 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 8 --pseed 4 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 9 --pseed 4 --stage pre --ea 1 --cov 0 --epochs 100 --tag pre
+--subject 1 --pseed 4 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 2 --pseed 4 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 3 --pseed 4 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 4 --pseed 4 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 5 --pseed 4 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 6 --pseed 4 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 7 --pseed 4 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 8 --pseed 4 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 9 --pseed 4 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 10 --pseed 4 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 11 --pseed 4 --stage pre --ea 1 --cov 0 --epochs 100 --data ../data/halt --tag pre
+--subject 1 --seed 1 --pseed 1 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 2 --seed 1 --pseed 1 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 3 --seed 1 --pseed 1 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 4 --seed 1 --pseed 1 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 5 --seed 1 --pseed 1 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 6 --seed 1 --pseed 1 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 7 --seed 1 --pseed 1 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 8 --seed 1 --pseed 1 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 9 --seed 1 --pseed 1 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 1 --seed 1 --pseed 1 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 2 --seed 1 --pseed 1 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 3 --seed 1 --pseed 1 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 4 --seed 1 --pseed 1 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 5 --seed 1 --pseed 1 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 6 --seed 1 --pseed 1 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 7 --seed 1 --pseed 1 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 8 --seed 1 --pseed 1 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 9 --seed 1 --pseed 1 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 10 --seed 1 --pseed 1 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 11 --seed 1 --pseed 1 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 1 --seed 2 --pseed 2 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 2 --seed 2 --pseed 2 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 3 --seed 2 --pseed 2 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 4 --seed 2 --pseed 2 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 5 --seed 2 --pseed 2 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 6 --seed 2 --pseed 2 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 7 --seed 2 --pseed 2 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 8 --seed 2 --pseed 2 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 9 --seed 2 --pseed 2 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 1 --seed 2 --pseed 2 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 2 --seed 2 --pseed 2 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 3 --seed 2 --pseed 2 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 4 --seed 2 --pseed 2 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 5 --seed 2 --pseed 2 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 6 --seed 2 --pseed 2 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 7 --seed 2 --pseed 2 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 8 --seed 2 --pseed 2 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 9 --seed 2 --pseed 2 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 10 --seed 2 --pseed 2 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 11 --seed 2 --pseed 2 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 1 --seed 3 --pseed 3 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 2 --seed 3 --pseed 3 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 3 --seed 3 --pseed 3 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 4 --seed 3 --pseed 3 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 5 --seed 3 --pseed 3 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 6 --seed 3 --pseed 3 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 7 --seed 3 --pseed 3 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 8 --seed 3 --pseed 3 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 9 --seed 3 --pseed 3 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 1 --seed 3 --pseed 3 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 2 --seed 3 --pseed 3 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 3 --seed 3 --pseed 3 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 4 --seed 3 --pseed 3 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 5 --seed 3 --pseed 3 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 6 --seed 3 --pseed 3 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 7 --seed 3 --pseed 3 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 8 --seed 3 --pseed 3 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 9 --seed 3 --pseed 3 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 10 --seed 3 --pseed 3 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 11 --seed 3 --pseed 3 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 1 --seed 4 --pseed 4 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 2 --seed 4 --pseed 4 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 3 --seed 4 --pseed 4 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 4 --seed 4 --pseed 4 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 5 --seed 4 --pseed 4 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 6 --seed 4 --pseed 4 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 7 --seed 4 --pseed 4 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 8 --seed 4 --pseed 4 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 9 --seed 4 --pseed 4 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --tag V4_div
+--subject 1 --seed 4 --pseed 4 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 2 --seed 4 --pseed 4 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 3 --seed 4 --pseed 4 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 4 --seed 4 --pseed 4 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 5 --seed 4 --pseed 4 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 6 --seed 4 --pseed 4 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 7 --seed 4 --pseed 4 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 8 --seed 4 --pseed 4 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 9 --seed 4 --pseed 4 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 10 --seed 4 --pseed 4 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
+--subject 11 --seed 4 --pseed 4 --stage ft --ea 1 --cov 0 --epochs 300 --lr 3e-4 --warmup 10 --data ../data/halt --tag H4_div
